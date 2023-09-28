@@ -3,3 +3,29 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+/*
+typography
+*/
+body {
+  font-family: 'Fredoka', sans-serif;
+}
+
+.container {
+  margin: 0 100px;
+}
+
+header {
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #e53170;
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
