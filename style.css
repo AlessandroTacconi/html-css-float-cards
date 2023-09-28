@@ -52,4 +52,10 @@ main {
   height: 100px;
   width: 100px;
   display: block;
+  float: left;
+}
+
+.info {
+  color: antiquewhite;
+  float: left;
 }
