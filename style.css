@@ -57,5 +57,10 @@ main {
 
 .info {
   color: antiquewhite;
-  float: left;
+  float: right;
+  width: calc(100% - 120px);
+}
+
+.email {
+  color: #4dccf2;
 }
