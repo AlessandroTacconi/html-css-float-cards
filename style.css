@@ -56,7 +56,8 @@ main {
 }
 
 .info {
-  color: antiquewhite;
+  margin-top: 20px;
+  color: white;
   float: right;
   width: calc(100% - 120px);
 }
